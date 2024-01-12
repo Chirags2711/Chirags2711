@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Swift, SwiftUI**
 
-- 👨‍💻 All of my projects are available at [https://chirags2711.github.io/Portfolio1/](https://chirags2711.github.io/Portfolio/)
+- 👨‍💻 All of my projects are available at [https://chirags2711.github.io/Portfolio/](https://chirags2711.github.io/Portfolio/)
 
 - 📫 How to reach me **chirags2711@gmail.com**
 
